@@ -1,0 +1,2 @@
+2024-02-18 09:26:05 [   DEBUG] Starting new HTTPS connection (1): httpbin.org:443 (connectionpool.py:1023)
+2024-02-18 09:26:07 [   DEBUG] https://httpbin.org:443 "GET /basic-auth/abc/abc HTTP/1.1" 401 0 (connectionpool.py:483)

@@ -1,0 +1,2 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1023 Starting new HTTPS connection (1): httpbin.org:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:483 https://httpbin.org:443 "GET /basic-auth/abc/abc HTTP/1.1" 401 0

@@ -1,0 +1,3 @@
+Request URL:  https://petstore.swagger.io/v2/pet/
+{'id': 1945, 'name': 'Jennyfur', 'photoUrls': [], 'tags': [], 'status': 'available'}
+0.941811

@@ -1,0 +1,3 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1023 Starting new HTTPS connection (1): petstore.swagger.io:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:483 https://petstore.swagger.io:443 "GET /v2/pet/1945 HTTP/1.1" 200 None
+[32mINFO    [0m APIPetStoreTests.test_pets:test_pets.py:30 Get message done!

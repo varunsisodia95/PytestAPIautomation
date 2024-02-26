@@ -1,0 +1,18 @@
+{
+   "id": 192,
+   "category": {
+      "id": 0,
+      "name": "string"
+   },
+   "name": "JenyFur",
+   "photoUrls": [
+      "string"
+   ],
+   "tags": [
+      {
+         "id": 0,
+         "name": "string"
+      }
+   ],
+   "status": "available"
+}
